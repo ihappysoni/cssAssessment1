@@ -1,0 +1,34 @@
+.red{
+    color: red;
+}
+.brown{
+    color: brown;
+}
+#bg{
+    background-color: yellow;
+    
+}
+#cut{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#unl{
+    text-decoration: underline;
+    font-family: 'Cookie', cursive;
+}
+ol{
+    line-height: 40px;
+}
+ul{
+    letter-spacing: 3px;
+}
+p{
+    margin-top: 30px;
+}
+
+h3{
+    font-family: 'Cookie', cursive;
+}
+a{
+    font-family: 'Cookie', cursive;
+}
